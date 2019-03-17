@@ -1,6 +1,8 @@
 {
   "name": "theerajet3",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "7d5e7f4c"
 }
